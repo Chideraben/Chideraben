@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Menu",
+			"path": "."
+		}
+	],
+	"settings": {
+		"codesnap-plus.containerPadding": "3em",
+		"codesnap-plus.backgroundColor": "#abb8c3"
+	}
+}
