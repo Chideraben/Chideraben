@@ -212,7 +212,7 @@ footer{
 #rice{
 
     margin-lef: 51.86px;
-    box-shadow: 0px 11px 20px 0px #33333366;
+    
 
 
 }
@@ -433,7 +433,7 @@ footer{
 }
 .pink-child{
     display: flex;
-    width: 1030px;
+    max-width: 1030px;
     height: 437px;
     padding-top: 80px;
     padding-left: 156px;
