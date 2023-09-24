@@ -6,7 +6,7 @@
 
 body{
     background-color:white;
-    width: ;
+    position: relative;
     height: 4299px;
     
    
@@ -17,16 +17,14 @@ body{
     height: 100px;
     background: #ffffff;
     box-shadow: 0px 8px 16px -6px #18274B14;
-   position: ;
-   display: flex;
-   justify-content: center;
+    display: flex;
+    justify-content: center;
     z-index: 1000;
 }
 nav{
     width: 1128px;
     height: 54px;
     margin-top: 22px;
-    margin-left: 156px;
     gap: 64px;
     background-color: white;
     display: flex;
@@ -178,6 +176,7 @@ footer{
 }
 .food{
     display: flex;
+    gap: 24px;
     
     
     
@@ -208,28 +207,24 @@ footer{
     width: 587.09px;
     height: 587.09px;
     margin-top: 175px;
-    left: 733px;
-    
 
-    
 }
 #rice{
 
-    margin-left: 51.86px;
+    margin-lef: 51.86px;
     box-shadow: 0px 11px 20px 0px #33333366;
-    
-    box-shadow: 19px 33px 34px 2px #64616173;
-    box-shadow: 66px 77px 40px 0px #C4C4C433;
+
 
 }
 .msg{
     width: 80px;
     height: 80px;
     margin-top: 724px;
-    margin-left: -100px;
+    margin-left: 100px;
+    position: fixed;
     border-radius: 100%;
     box-shadow: 0px 14px 64px -4px #18274B1F;
-    background: linear-gradient( #FFD280 , #FF3D31 , #DA3743 );
+    background: linear-gradient( #FF3D31 , #DA3743 );
     background-blend-mode: multiply;
     display: flex;
     justify-content: center;
@@ -334,7 +329,6 @@ footer{
     
     height: 983px;
     margin-top: 100px;
-    margin-left: 156px;
     gap: 48px;
 }
 .frame1603{
@@ -415,7 +409,7 @@ footer{
     width: 119px;
     height: 54px;
     margin-top: 70px;
-    margin-left: 500px;
+    
     border-radius: 30px;
     padding: 0px, 24px, 0px, 24px;
     gap: 16px;
