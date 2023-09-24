@@ -26,7 +26,7 @@ nav{
     width: 1128px;
     height: 54px;
     margin-top: 22px;
-    margin-left: 156px;
+    
     gap: 64px;
     background-color: white;
     display: flex;
@@ -58,14 +58,14 @@ section{
     width: 67px;
     height: 35px;
     margin-top:-0.5px ;
-    left: 69.19px;
+    
     font-family: 'Inter Tight', sans-serif;
     font-size: 22px;
     font-weight: 800;
     line-height: 35px;
     letter-spacing: 0.004em;
     text-align: left;
-   color: #1A1A1A;
+    color: #1A1A1A;
 }
 #image{
     width: 54px;
@@ -216,10 +216,7 @@ footer{
 #rice{
 
     margin-left: 51.86px;
-    box-shadow: 0px 11px 20px 0px #33333366;
-    
-    box-shadow: 19px 33px 34px 2px #64616173;
-    box-shadow: 66px 77px 40px 0px #C4C4C433;
+    box-shadow: white;
 
 }
 .msg{
