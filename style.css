@@ -245,14 +245,15 @@ footer{
 }
 /*for the third part*/
 .frame-maincontainer{
+    display: flex;
 
-}
+justify-content: center;}
 .frame-container{
     background-color: #FAFAFA;
     
     height: 1407px;
     margin-top: 29px;
-
+    d
 
     
    
