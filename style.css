@@ -9,7 +9,7 @@ body{
     width: ;
     height: 4299px;
     
-   
+   position: relative;
 
 }
 .container{
@@ -209,7 +209,7 @@ footer{
     width: 587.09px;
     height: 587.09px;
     margin-top: 175px;
-    left: 733px;
+ 
     
 
     
@@ -217,17 +217,16 @@ footer{
 #rice{
 
     margin-left: 51.86px;
-    box-shadow: 0px 11px 20px 0px #33333366;
+    box-shadow: 0px 11px 20px 0px #fffff;
     
-    box-shadow: 19px 33px 34px 2px #64616173;
-    box-shadow: 66px 77px 40px 0px #C4C4C433;
+   
 
 }
 .msg{
     width: 80px;
     height: 80px;
     margin-top: 724px;
-    margin-left: -100px;
+    margin-left: 156px;
     border-radius: 100%;
     box-shadow: 0px 14px 64px -4px #18274B1F;
     background: linear-gradient( #FF3D31 , #DA3743 );
