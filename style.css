@@ -249,7 +249,9 @@ footer{
 }
 /*for the third part*/
 .frame-maincontainer{
-
+ display:block;
+justify-content:center;
+align-itel:center;
 }
 .frame-container{
     background-color: #FAFAFA;
@@ -258,7 +260,7 @@ footer{
     margin-top: 29px;
     display: flex;
     justify-content: center;
-
+align-item:center;
     
    
 }
